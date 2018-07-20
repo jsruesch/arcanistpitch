@@ -29,6 +29,7 @@
    min-height: 100%;
    position: relative;
    width: 100%;
+   background: $dgrey;
  }
 
  body{  }
@@ -38,11 +39,19 @@
  p{  }
 
  ul{ list-style:none; }
+ .disc{
+  list-style: disc;
+  padding-left: 20px;
+ }
 
  hr{  }
 
  h1, h2, h3, h4, h5, h6{
+  font-family: $alagard !important;
+ }
 
+ h1{
+   font-size: 50px !important;
  }
 
  table tr{  }
@@ -95,6 +104,14 @@
   * =========================================
   */
 
+.card,
+.accordion  {  @include full; }
+.header-logo{
+  height: 350px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
 /* END: Elements */
 
 
@@ -104,5 +121,5 @@
  * =========================================
  */
 
- 
+
 /* END: Footer */

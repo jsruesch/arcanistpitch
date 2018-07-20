@@ -8,6 +8,11 @@
  * Mixins
  * =========================================
  */
+@font-face {
+  font-family: 'alagardmedium';
+  src: url("../fonts/alagard-webfont.woff2") format("woff2"), url("../fonts/alagard-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
 /* END Mixins */
 /**
  * =========================================
@@ -19,7 +24,25 @@
  * =========================================
  * Setup Classes
  * =========================================
- */
+  */
+.text-grey {
+  color: #e1e1e1; }
+
+.text-lgrey {
+  color: #f5f5f5; }
+
+.text-dgrey {
+  color: #2B2822; }
+
+.bg-grey {
+  background: #e1e1e1; }
+
+.bg-lgrey {
+  background: #f5f5f5; }
+
+.bg-dgrey {
+  background: #2B2822; }
+
 /* Bootstrap Overrides */
 .container,
 .col-sm-12,
@@ -41,7 +64,9 @@
 
 .row {
   margin-left: 0 !important;
-  margin-right: 0 !important; }
+  margin-right: 0 !important;
+  width: 100%;
+  float: left; }
 
 h1, h2, h3, h4, h5, p {
   margin-top: 0 !important;
@@ -325,6 +350,11 @@ h1, h2, h3, h4, h5, p {
  * Mixins
  * =========================================
  */
+@font-face {
+  font-family: 'alagardmedium';
+  src: url("../fonts/alagard-webfont.woff2") format("woff2"), url("../fonts/alagard-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
 /* END Mixins */
 /**
  * =========================================
@@ -336,7 +366,25 @@ h1, h2, h3, h4, h5, p {
  * =========================================
  * Setup Classes
  * =========================================
- */
+  */
+.text-grey {
+  color: #e1e1e1; }
+
+.text-lgrey {
+  color: #f5f5f5; }
+
+.text-dgrey {
+  color: #2B2822; }
+
+.bg-grey {
+  background: #e1e1e1; }
+
+.bg-lgrey {
+  background: #f5f5f5; }
+
+.bg-dgrey {
+  background: #2B2822; }
+
 /* Bootstrap Overrides */
 .container,
 .col-sm-12,
@@ -358,7 +406,9 @@ h1, h2, h3, h4, h5, p {
 
 .row {
   margin-left: 0 !important;
-  margin-right: 0 !important; }
+  margin-right: 0 !important;
+  width: 100%;
+  float: left; }
 
 h1, h2, h3, h4, h5, p {
   margin-top: 0 !important;
@@ -653,10 +703,21 @@ html {
   overflow: scroll;
   min-height: 100%;
   position: relative;
-  width: 100%; }
+  width: 100%;
+  background: #2B2822; }
 
 ul {
   list-style: none; }
+
+.disc {
+  list-style: disc;
+  padding-left: 20px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "alagardmedium" !important; }
+
+h1 {
+  font-size: 50px !important; }
 
 /* END: Global Styles */
 /**
@@ -699,6 +760,16 @@ ul {
  * Elements
  * =========================================
  */
+.card,
+.accordion {
+  width: 100%;
+  float: left; }
+
+.header-logo {
+  height: 350px;
+  max-width: 100%;
+  margin: 0 auto; }
+
 /* END: Elements */
 /**
  * =========================================

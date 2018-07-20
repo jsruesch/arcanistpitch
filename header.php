@@ -1,21 +1,17 @@
-<!DOCTYPE HTML >
-<html lang="en">
+<!DOCTYPE html>
 <head>
-
-    <title>jweb</title>
-    <meta name="description"
-          content="">
-
-    <!-- Main Stylesheet -->
-    <link rel="stylesheet" type="text/css" href="stylesheets/style.min.css"/>
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/favicon.ico" type="image/x-icon" />
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Bootstrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
+  <title>Arcanist Pitch</title>
+  <meta name="description"
+        content="Arcanist is a fast-paced action/puzzle adventure game. Brew mysterious potions, scour ancient tomes, and unleash powerful spells as you uncover the secrets held within the Arcanist’s scriptorium. Gorgeous pixel art visuals and an addictive electronic-Baroque soundtrack accompany you on your quest to learn to manipulate the very elements of magic. Enter the tower and discover what it means to be a true Master of the Arcane.">
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.min.css"/>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
 </head>
 
 <body id="">

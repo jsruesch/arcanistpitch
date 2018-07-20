@@ -18,6 +18,15 @@
             border-radius: 3px;
 }
 
+@font-face {
+    font-family: 'alagardmedium';
+    src: url('../fonts/alagard-webfont.woff2') format('woff2'),
+         url('../fonts/alagard-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* END Mixins */
 
 
@@ -27,7 +36,10 @@
  * =========================================
  */
 
- // $green:   #87b840;
+  $alagard:  'alagardmedium';
+  $grey:     #e1e1e1;
+  $lgrey:    #f5f5f5;
+  $dgrey:    #2B2822;
 
  /* END Variables */
 
@@ -36,11 +48,15 @@
  * =========================================
  * Setup Classes
  * =========================================
- */
- //
- // .text-green{   color: $green !important; }
- //
- // .bg-green{   background: $green; }
+  */
+
+  .text-grey{   color: $grey; }
+  .text-lgrey{  color: $lgrey; }
+  .text-dgrey{  color: $dgrey; }
+
+  .bg-grey{ background: $grey; }
+  .bg-lgrey{ background: $lgrey; }
+  .bg-dgrey{ background: $dgrey; }
 
 
  /* Bootstrap Overrides */
@@ -66,6 +82,8 @@
 .row{
   margin-left:  0 !important;
   margin-right: 0 !important;
+  width: 100%;
+  float: left;
 }
 
  h1,h2,h3,h4,h5,p{

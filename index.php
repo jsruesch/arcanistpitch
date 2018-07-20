@@ -139,7 +139,7 @@
         <!-- Publishing Needs -->
         <div class="row bg-lgrey pad60">
             <div class="row">
-              <h1 class="text-dgrey">Development</h1>
+              <h1 class="text-dgrey">Publishing Needs</h1>
             </div>
             <div class="row">
                 <ul class="disc">

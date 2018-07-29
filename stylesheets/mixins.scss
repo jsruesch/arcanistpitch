@@ -40,6 +40,8 @@
   $grey:     #e1e1e1;
   $lgrey:    #f5f5f5;
   $dgrey:    #2B2822;
+  $gold:     #FBA924;
+  $lblue:    #56abd4;
 
  /* END Variables */
 
@@ -53,6 +55,8 @@
   .text-grey{   color: $grey; }
   .text-lgrey{  color: $lgrey; }
   .text-dgrey{  color: $dgrey; }
+  .text-gold{   color: $gold; }
+  .text-lblue{  color: $lblue; }
 
   .bg-grey{ background: $grey; }
   .bg-lgrey{ background: $lgrey; }

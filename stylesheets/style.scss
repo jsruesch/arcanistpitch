@@ -29,14 +29,20 @@
    min-height: 100%;
    position: relative;
    width: 100%;
-   background: $dgrey;
+   background: #341515;
  }
 
  body{  }
 
  a{  }
 
- p{  }
+ p{
+   font-size: 18px;
+   font-family: 'Quattrocento', serif;
+   letter-spacing: 1px;
+   text-shadow:0px 3px 3px rgba(0,0,0,1);
+   color: white;
+ }
 
  ul{ list-style:none; }
  .disc{
@@ -48,6 +54,7 @@
 
  h1, h2, h3, h4, h5, h6{
   font-family: $alagard !important;
+  text-shadow:0px 5px 0px rgba(0,0,0,.75);
  }
 
  h1{
@@ -56,7 +63,10 @@
 
  table tr{  }
 
- ::selection{  }
+ ::selection{
+  background:  #001D2D;
+  color:       $lblue;
+}
 
  /* END: Global Styles */
 
@@ -85,6 +95,9 @@
    float: left;
  }
 
+ .text-bold{ font-weight: bold; }
+ .img-fw{ width: 100%; }
+
  /* END: Utility Classes */
 
 
@@ -104,6 +117,31 @@
   * =========================================
   */
 
+.ninebox{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 35px auto 35px;
+  grid-template-rows: 35px auto 35px;
+
+  // Top Row
+  .tl{ background: url(../img/9box-02/9b-topleft-01.png); }
+  .tt{ background: url(../img/9box-02/top-tile-01.png) repeat-x; }
+  .tr{ background: url(../img/9box-02/9b-topright-01.png); }
+
+  // Middle Row
+  .lt{ background: url(../img/9box-02/left-tile-01.png) repeat-y; }
+  .mt{
+    padding: 20px;
+     background: url(../img/9box-02/mid-tile-01.png);
+   }
+  .rt{ background: url(../img/9box-02/right-tile-01.png) repeat-y; }
+
+  // Bottom Row
+  .bl{ background: url(../img/9box-02/9b-bottomleft-01.png); }
+  .bt{ background: url(../img/9box-02/bottom-tile-01.png) repeat-x; }
+  .br{ background: url(../img/9box-02/9b-bottomright-01.png); }
+}
+
 .card,
 .accordion  {  @include full; }
 .header-logo{
@@ -112,6 +150,29 @@
   margin: 0 auto;
 }
 
+// Bootstrap overrides
+.card{
+  border: 3px solid rgba(0,0,0,.2) !important;
+  margin-bottom: 5px;
+  border-radius: 0px !important;
+  background: rgba(0,0,0,.25) !important;
+  box-shadow: inset 0px 3px 0px rgba(255,255,255,.05);
+}
+.card-header{ padding: 0 !important; }
+.card-body{ background: rgba(0,0,0,.5); }
+.btn{
+  padding: 15px 15px 10px 15px !important;
+}
+
+.btn-link{
+  height: 100%;
+  width: 100%;
+  text-align: left !important;
+
+  &:hover, &:focus{
+    text-decoration: none !important;
+  }
+}
 /* END: Elements */
 
 

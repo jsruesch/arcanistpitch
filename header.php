@@ -5,6 +5,7 @@
         content="Arcanist is a fast-paced action/puzzle adventure game. Brew mysterious potions, scour ancient tomes, and unleash powerful spells as you uncover the secrets held within the Arcanist’s scriptorium. Gorgeous pixel art visuals and an addictive electronic-Baroque soundtrack accompany you on your quest to learn to manipulate the very elements of magic. Enter the tower and discover what it means to be a true Master of the Arcane.">
   <!-- Main Stylesheet -->
   <link rel="stylesheet" type="text/css" href="stylesheets/style.min.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Favicon -->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   <!-- jQuery -->

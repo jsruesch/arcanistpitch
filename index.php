@@ -192,6 +192,45 @@
     </div>
     <!-- END: Details -->
 
+    <!-- Media -->
+    <div class="row mar20-top">
+      <div class="ninebox">
+        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
+        <div class="lt"></div>
+          <div class="mt">
+            <div class="row">
+              <h1 class="text-gold">Media</h1>
+            </div>
+            <div class="row">
+              <h3 class="text-lblue mar10-bot">Images</h3>
+              <div class="row">
+                <div class="col-sm-6">
+                  <img class="img-fw" src="img/gifs/tower.gif"/>
+                </div>
+                <div class="col-sm-6">
+                  <img class="img-fw" src="img/gifs/bookshelf.gif"/>
+                </div>
+              </div>
+            </div>
+            <div class="row mar20-top">
+              <h3 class="text-lblue">Music</h3>
+              <div class="row mar10-top">
+                <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474419622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+              </div>
+              <div class="row mar10-top">
+                <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474422412&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+              </div>
+              <div class="row mar10-top">
+                <iframe width="100%" height="75" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/474427236&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+              </div>
+            </div>
+          </div>
+        <div class="rt"></div>
+        <div class="bl"></div><div class="bt"></div><div class="br"></div>
+      </div>
+    </div>
+    <!-- END: Media -->
+
     <!-- Development -->
     <div class="row mar20-top">
       <div class="ninebox">

@@ -48,7 +48,7 @@
     </div>
     <!-- END: Genre -->
 
-    <!-- Gameplay -->
+    <!-- Details -->
     <div class="row mar20-top">
       <div class="ninebox">
         <div class="tl"></div><div class="tt"></div><div class="tr"></div>
@@ -190,54 +190,141 @@
         <div class="bl"></div><div class="bt"></div><div class="br"></div>
       </div>
     </div>
-    <!-- END: Gameplay -->
+    <!-- END: Details -->
 
-
-
-      <!-- Development -->
-      <div class="row bg-lgrey pad60">
-          <div class="row">
-            <h1 class="text-dgrey">Development</h1>
-          </div>
-          <div class="row">
-              <ul class="disc">
-                <li>Built in Unity</li>
-                <li>Utilizes FMOD audio library</li>
-              </ul>
-          </div>
-        </div><!-- END: Development -->
-
-      <!-- Release Roadmap -->
-      <div class="row bg-grey pad60">
-          <div class="row">
-            <h1 class="text-dgrey">Release Roadmap</h1>
-          </div>
-          <div class="row">
-              <ul class="disc">
-                <li>Initial launch in mid-2019 on Switch, PC, and Mac, followed by Android and iOS in late 2019</li>
-                <li>Future release on XBox and PlayStation </li>
-              </ul>
-          </div>
-        </div><!-- END: Release Roadmap -->
-
-        <!-- Publishing Needs -->
-        <div class="row bg-lgrey pad60">
+    <!-- Development -->
+    <div class="row mar20-top">
+      <div class="ninebox">
+        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
+        <div class="lt"></div>
+          <div class="mt">
             <div class="row">
-              <h1 class="text-dgrey">Publishing Needs</h1>
+              <h1 class="text-gold">Development</h1>
             </div>
             <div class="row">
-                <ul class="disc">
-                  <li>Access to platforms: Our primary interest in working with an established publisher is to gain access to platforms like the Nintendo Switch and Steam while appealing to the indie game community we love and respect. If accepted to the e-shop, we will also need to purchase a Switch development kit ($500).</li>
-                  <li>Access to platforms: Our primary interest in working with an established publisher is to gain access to platforms like the Nintendo Switch and Steam while appealing to the indie game community we love and respect. If accepted to the e-shop, we will also need to purchase a Switch development kit ($500).</li>
-                  <li>QA: We would welcome publisher help finding a suitable QA firm and funding this work. ($5000 - $10,000) (?)</li>
-                </ul>
+              <ul class="disc">
+                <li><p>Built in Unity</p></li>
+                <li><p>Utilizes FMOD audio library</p></li>
+              </ul>
             </div>
-          </div><!-- END: Publishing Needs -->
+          </div>
+        <div class="rt"></div>
+        <div class="bl"></div><div class="bt"></div><div class="br"></div>
+      </div>
+    </div>
+    <!-- END: Development -->
 
-          <!-- Bios -->
-          <div class="row pad60 bg-grey">
+    <!-- Release Roadmap -->
+    <div class="row mar20-top">
+      <div class="ninebox">
+        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
+        <div class="lt"></div>
+          <div class="mt">
             <div class="row">
-              <h1 class="text-dgrey">Developer Bios</h1>
+              <h1 class="text-gold">Release Roadmap</h1>
+            </div>
+            <div class="row">
+              <ul class="disc">
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Production</h3>
+                  <p>present through May 2019</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Polish and QA</h3>
+                  <p>Utilizes FMOD audio library</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Publicity</h3>
+                  <p>beginning June 2019 with potential announcement at or around E3</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Initial launch</h3>
+                  <p>August 2019 on Switch, PC, and Mac</p>
+                  <ul class="disc">
+                    <li>
+                      <p>
+                        <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for immersive puzzle games beyond Tetris in the Nintendo Switch e-shop. At present, only two prominent puzzle-based experiences with multiplayer components are available on the Switch platform (Puyo Puyo Tetris and Sushi Strikers). Arcanist combines a compelling single-player story experience with multiple local multiplayer modes to provide significantly more value to the consumer than similar puzzle games.
+                      </p>
+                    </li>
+                  </ul>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Release on Xbox and PlayStation</h3>
+                  <p>Late 2019</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Release on iOS and Android: 2020+</h3>
+                  <p>Pending publisher input</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Target Release Price</h3>
+                  <p>$15.99</p>
+                </li>
+                <li class="mar20-top">
+                  <h3 class="text-lblue">Switch Competition</h3>
+                  <p>Similar Puzzle Games</p>
+                  <ul class="disc">
+                    <li><p>Poyu Poyu Tetris - $39.99 (single- and multi-player modes)</p></li>
+                    <li><p>Sushi Striker: The Way of Sushido - $49.99 (single- and multi-player modes)</p></li>
+                    <li><p>Battle Chef Brigade - $19.99 (single-player only)</p></li>
+                    <li><p>Tricky Towers - $15.99 (online and local multi-player focused)</p></li>
+                    <li><p>Tumblestone - $14.99 (multi-player only)</p></li>
+                    <li><p>Letter Quest: Remastered - $11.99 (single-player only)</p></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        <div class="rt"></div>
+        <div class="bl"></div><div class="bt"></div><div class="br"></div>
+      </div>
+    </div>
+    <!-- END: Release Roadmap -->
+
+    <!-- Publisher Needs -->
+    <div class="row mar20-top">
+      <div class="ninebox">
+        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
+        <div class="lt"></div>
+          <div class="mt">
+            <div class="row">
+              <h1 class="text-gold">Publisher Needs</h1>
+            </div>
+            <div class="row">
+              <table class="publisher-needs">
+                <tr>
+                  <td><h3 class="text-lblue text-center">Already Have</h3><p class="text-center">( funded by Studio Z )</p></td>
+                  <td><h3 class="text-lblue text-center">Initial Needs</h3></td>
+                  <td><h3 class="text-lblue text-center">Future Needs</h3></td>
+                </tr>
+                <!-- Asset Creation -->
+                <tr>
+                  <td>
+                    <h4 class="text-lblue">Asset Creation</h4>
+                    <p>
+                      Creation of existing art, music, UI, design, code and other assets
+                    </p>
+                  </td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        <div class="rt"></div>
+        <div class="bl"></div><div class="bt"></div><div class="br"></div>
+      </div>
+    </div>
+    <!-- END: Publisher Needs -->
+
+    <!-- Bios -->
+    <div class="row mar20-top">
+      <div class="ninebox">
+        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
+        <div class="lt"></div>
+          <div class="mt">
+            <div class="row">
+              <h1 class="text-gold">Developer Bios</h1>
             </div>
             <div class="row">
               <!-- Accordion -->
@@ -248,7 +335,7 @@
                       <div class="card-header" id="quinn">
                         <h5 class="">
                           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#quinn-content" aria-expanded="true" aria-controls="collapseOne">
-                            Quinn Elmer
+                            <h3 class="text-white">Quinn Elmer</h3>
                           </button>
                         </h5>
                       </div><!-- END: Button -->
@@ -256,7 +343,7 @@
                       <div id="quinn-content" class="collapse" aria-labelledby="quinnr" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            Quinn Elmer is a composer, writer, and producer. Previously, he has worked on several independent and educational video games, including At Play in the Cosmos, which won the People's Choice Award at the 2017 Games for Change conference. He is currently a student in the Technology, Innovation, and Education program in the Harvard Graduate School of Education, where he continues his game-making pursuits in both the commercial and educational worlds.<br />
+                            <span class="text-lblue">Quinn Elmer</span> is a composer, writer, and producer. Previously, he has worked on several independent and educational video games, including At Play in the Cosmos, which won the People's Choice Award at the 2017 Games for Change conference. He is currently a student in the Technology, Innovation, and Education program in the Harvard Graduate School of Education, where he continues his game-making pursuits in both the commercial and educational worlds.<br />
                             Site: https://soundcloud.com/mighty_quinn<br />
                             Twitter:@Quinn_Elmer
                           </p>
@@ -264,14 +351,13 @@
                       </div><!-- END: Content -->
                     </div>
                   <!-- END: Quinn Elmer -->
-
                   <!-- Chase Goostree -->
                     <div class="card">
                       <!-- Button -->
                       <div class="card-header" id="chase">
                         <h5 class="">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#chase-content" aria-expanded="false" aria-controls="collapseTwo">
-                            Chase Goostree
+                            <h3 class="text-white">Chase Goostree</h3>
                           </button>
                         </h5>
                       </div><!-- END: Button -->
@@ -279,20 +365,19 @@
                       <div id="chase-content" class="collapse" aria-labelledby="chase" data-parent="#bios-accordion">
                         <div class="card-body">
                             <p>
-                              Chase Goostree is an illustrator, concept artist, and 2D artist. Though he has only been dabbling in pixels for a little while, Chase Goostree has been drawing his whole life. Visions of spider-like men, fighting turtles and super-suited earthworms fueled his imagination from a young age. So far, his journey has led him to college where he studied Illustration, and he now works in freelance artistry.  He also enjoys pug dogs.
+                              <span class="text-lblue">Chase Goostree</span> is an illustrator, concept artist, and 2D artist. Though he has only been dabbling in pixels for a little while, Chase Goostree has been drawing his whole life. Visions of spider-like men, fighting turtles and super-suited earthworms fueled his imagination from a young age. So far, his journey has led him to college where he studied Illustration, and he now works in freelance artistry.  He also enjoys pug dogs.
                             </p>
                         </div>
                       </div><!-- END: Content -->
                     </div>
                   <!-- END: Chase Goostree -->
-
                   <!-- John Karczewski -->
                     <div class="card">
                       <!-- Button -->
                       <div class="card-header" id="john">
                         <h5 class="">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#john-content" aria-expanded="false" aria-controls="collapseThree">
-                            John Karczewski
+                            <h3 class="text-white">John Karczewski</h3>
                           </button>
                         </h5>
                       </div><!-- END: Button -->
@@ -300,7 +385,7 @@
                       <div id="john-content" class="collapse" aria-labelledby="john" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            John Karczewski is a game designer and software engineer who has shipped over a dozen titles in his nine-year career. He got his start developing award-winning gameplay for AAA titles like Saint's Row: The Third and Red Faction: Armageddon; today, he creates educational games in partnership with researchers and non-profit organizations, including innovative projects supported by the National Institutes for Health and the Gates Foundation. Whether he's developing games for change or working on his own indie titles, he loves creating polished experiences that captivate players.<br/>
+                            <span class="text-lblue">John Karczewski</span> is a game designer and software engineer who has shipped over a dozen titles in his nine-year career. He got his start developing award-winning gameplay for AAA titles like Saint's Row: The Third and Red Faction: Armageddon; today, he creates educational games in partnership with researchers and non-profit organizations, including innovative projects supported by the National Institutes for Health and the Gates Foundation. Whether he's developing games for change or working on his own indie titles, he loves creating polished experiences that captivate players.<br/>
                           Site: www.johnkarczewski.com<br/>
                           Twitter: @johnkarczewski
                         </p>
@@ -308,14 +393,13 @@
                       </div><!-- END: Content -->
                     </div>
                     <!-- END: John Karczewski -->
-
                   <!-- Jake Ruesch -->
                     <div class="card">
                       <!-- Button -->
                       <div class="card-header" id="jake">
                         <h5 class="">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#jake-content" aria-expanded="false" aria-controls="collapseThree">
-                            Jake Ruesch
+                            <h3 class="text-white">Jake Ruesch</h3>
                           </button>
                         </h5>
                       </div><!-- END: Button -->
@@ -323,7 +407,7 @@
                       <div id="jake-content" class="collapse" aria-labelledby="jake" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            Jake Ruesch is a UI/UX and web designer who holds a degree in graphic design and has worked in video game development for nearly a decade.  As a team member at the University of Wisconsin-Madison, Learning Games Network, The Wisconsin Institutes for Discovery, and Gear Learning, he has collaborated with programmers, modelers, and animators to create fun, and intuitive games for impact.  He loves a challenge, whether it's designing responsive, user-friendly, intuitive websites; developing game interfaces and graphics; or creating high-detail vector art and video games.<br/>
+                            <span class="text-lblue">Jake Ruesch</span> is a UI/UX and web designer who holds a degree in graphic design and has worked in video game development for nearly a decade.  As a team member at the University of Wisconsin-Madison, Learning Games Network, The Wisconsin Institutes for Discovery, and Gear Learning, he has collaborated with programmers, modelers, and animators to create fun, and intuitive games for impact.  He loves a challenge, whether it's designing responsive, user-friendly, intuitive websites; developing game interfaces and graphics; or creating high-detail vector art and video games.<br/>
                             Site: http://jsruesch.com/<br/>
                             Twitter: @rykore
                           </p>
@@ -331,16 +415,22 @@
                       </div><!-- END: Content -->
                     </div>
                     <!-- END: Jake Ruesch-->
-
                 </div>
                 <!-- END: Accordion -->
             </div>
-          </div><!-- END: Bios -->
-
-      <?php include('footer.php') ?>
-
+          </div>
+        <div class="rt"></div>
+        <div class="bl"></div><div class="bt"></div><div class="br"></div>
+      </div>
+    </div>
+    <!-- END: Bios -->
   </div><!-- /.container -->
 </div><!-- /.container-fluid -->
+
+<div class="row footer">
+  <img class="footer-logo center-block" src="img/studioz-logo-01.svg"/>
+</div>
+
 
 </body>
 </html>

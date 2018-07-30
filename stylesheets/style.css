@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /**
  * =========================================
  * Imports
@@ -716,7 +717,7 @@ html {
   min-height: 100%;
   position: relative;
   width: 100%;
-  background: url(../img/tempbg.png) 50% 0% #341515 no-repeat; }
+  background: url(../img/tempbg.png) 50% 0% #160909 no-repeat; }
 
 p {
   font-size: 18px;
@@ -742,6 +743,10 @@ h1 {
 ::selection {
   background: #001D2D;
   color: #56abd4; }
+
+li {
+  content: "•";
+  color: #9bdbf9; }
 
 /* END: Global Styles */
 /**
@@ -848,12 +853,30 @@ h1 {
   .btn-link:hover, .btn-link:focus {
     text-decoration: none !important; }
 
+.publisher-needs {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.25) !important; }
+  .publisher-needs td {
+    width: 33%;
+    padding: 10px;
+    border: 1px solid black; }
+
 /* END: Elements */
 /**
  * =========================================
  * Footer
  * =========================================
  */
+.footer {
+  padding-top: 35px;
+  height: 150px;
+  background: url(../img/footer-bg.png) repeat-x; }
+
+.footer-logo {
+  height: 75px;
+  max-width: 100%;
+  margin: 0 auto; }
+
 /* END: Footer */
 
 /*# sourceMappingURL=style.css.map */

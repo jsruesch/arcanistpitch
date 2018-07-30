@@ -189,6 +189,35 @@ li {
     border: 1px solid black;
   }
 }
+
+@keyframes even{
+  0%   {  top: 0px; }
+  25%   {  top: -5px; }
+  75%   {  top: 5px; }
+  100%   {  top: 0px; }
+}
+
+@keyframes odd{
+  0%   {  top: 0px; }
+  25%   {  top: 5px; }
+  75%   {  top: -5px; }
+  100%   {  top: 0px; }
+}
+
+.animate-text-even{
+    position: relative;
+    animation-name: even;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.animate-text-odd{
+    position: relative;
+    animation-name: odd;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
 /* END: Elements */
 
 

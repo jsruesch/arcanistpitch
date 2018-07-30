@@ -15,7 +15,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Summary</h1>
+              <h1 class="animate-text-odd text-gold">Summary</h1>
             </div>
             <div class="row">
               <p>
@@ -36,7 +36,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Genre</h1>
+              <h1 class="text-gold animate-text-even">Genre</h1>
             </div>
             <div class="row">
                 <p>Action, Adventure, Puzzle</p>
@@ -55,7 +55,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Details</h1>
+              <h1 class="text-gold animate-text-odd">Details</h1>
             </div>
             <div class="row">
               <!-- Accordion -->
@@ -199,7 +199,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Development</h1>
+              <h1 class="text-gold animate-text-odd">Development</h1>
             </div>
             <div class="row">
               <ul class="disc">
@@ -221,7 +221,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Release Roadmap</h1>
+              <h1 class="text-gold animate-text-even">Release Roadmap</h1>
             </div>
             <div class="row">
               <ul class="disc">
@@ -288,7 +288,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Publisher Needs</h1>
+              <h1 class="text-gold animate-text-odd">Publisher Needs</h1>
             </div>
             <div class="row">
               <table class="publisher-needs">
@@ -324,7 +324,7 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold">Developer Bios</h1>
+              <h1 class="text-gold animate-text-even">Developer Bios</h1>
             </div>
             <div class="row">
               <!-- Accordion -->

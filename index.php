@@ -368,6 +368,29 @@
             <div class="row">
               <!-- Accordion -->
               <div class="accordion" id="bios-accordion">
+                  <!-- Mattie Burkert -->
+                    <div class="card">
+                      <!-- Button -->
+                      <div class="card-header" id="mattie">
+                        <h5 class="">
+                          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#mattie-content" aria-expanded="true" aria-controls="collapseOne">
+                            <h3 class="text-white">Mattie Burkert</h3>
+                          </button>
+                        </h5>
+                      </div><!-- END: Button -->
+                      <!-- Content -->
+                      <div id="mattie-content" class="collapse" aria-labelledby="mattie" data-parent="#bios-accordion">
+                        <div class="card-body">
+                          <p>
+                            <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare’s A Midsummer Night’s Dream for high school students, currently in development by an independent games-for-impact studio.<br />
+                            Site: www.mattieburkert.com<br />
+                            Twitter: @mattie_burkert
+
+                          </p>
+                        </div>
+                      </div><!-- END: Content -->
+                    </div>
+                  <!-- END: Quinn Elmer -->
                   <!-- Quinn Elmer -->
                     <div class="card">
                       <!-- Button -->

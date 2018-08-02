@@ -4,8 +4,8 @@
 <div class="container-fluid">
   <div class="container">
 
-  <div class="row pad60-top">
-    <img class="header-logo pad20" src="img/arcanist-logo-light.svg"/>
+  <div class="row wow fadeInUp pad60-top" data-wow-delay=".05s">
+    <img class=" header-logo pad20 animate-text-even" src="img/arcanist-logo-light.svg"/>
   </div>
 
     <!-- Summary -->
@@ -139,6 +139,11 @@
                       <div id="local-multiplayer-content" class="collapse" aria-labelledby="local-multiplayer" data-parent="#gameplay-accordion">
                         <div class="card-body">
                           <ul class="disc">
+                            <div class="row">
+                              <div class="col-sm-12 mar10-bot">
+                                <img class="img-fw" src="img/coop-mode.jpg"/>
+                              </div>
+                            </div>
                             <li class="mar20-top">
                               <h3 class="text-lblue">2 Player Cooperative</h3>
                               <p>

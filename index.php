@@ -572,10 +572,17 @@
                       <div id="mattie-content" class="collapse" aria-labelledby="mattie" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare's A Midsummer Night's Dream for high school students, currently in development by an independent games-for-impact studio.<br />
-                            Site: www.mattieburkert.com<br />
-                            Twitter: @mattie_burkert
+                            <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare's A Midsummer Night's Dream for high school students, currently in development by an independent games-for-impact studio.
                           </p>
+
+                          <div class="hr mar10-top mar10-bot"></div>
+                          
+                          <h5 class="text-lblue">
+                            <a href="https://mattieburkert.com/" target="_blank">mattieburkert.com</a>
+                          </h5>
+                          <h5 class="text-lblue">
+                            <a href="https://twitter.com/mattie_burkert" target="_blank">@mattie_burkert</a>
+                          </h5>
                         </div>
                       </div><!-- END: Content -->
                     </div>
@@ -595,10 +602,17 @@
                       <div id="quinn-content" class="collapse" aria-labelledby="quinnr" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            <span class="text-lblue">Quinn Elmer</span> is a composer, writer, and producer. Previously, he has worked on several independent and educational video games, including At Play in the Cosmos, which won the People's Choice Award at the 2017 Games for Change conference. He is currently a student in the Technology, Innovation, and Education program in the Harvard Graduate School of Education, where he continues his game-making pursuits in both the commercial and educational worlds.<br />
-                            Site: https://soundcloud.com/mighty_quinn<br />
-                            Twitter:@Quinn_Elmer
+                            <span class="text-lblue">Quinn Elmer</span> is a composer, writer, and producer. Previously, he has worked on several independent and educational video games, including At Play in the Cosmos, which won the People's Choice Award at the 2017 Games for Change conference. He is currently a student in the Technology, Innovation, and Education program in the Harvard Graduate School of Education, where he continues his game-making pursuits in both the commercial and educational worlds.
                           </p>
+
+                          <div class="hr mar10-top mar10-bot"></div>
+                          
+                          <h5 class="text-lblue">
+                            <a href="https://soundcloud.com/mighty_quinn" target="_blank">Quinn on Soundcloud</a>
+                          </h5>
+                          <h5 class="text-lblue">
+                            <a href="https://twitter.com/Quinn_Elmer" target="_blank">@Quinn_Elmer</a>
+                          </h5>
                         </div>
                       </div><!-- END: Content -->
                     </div>
@@ -639,10 +653,17 @@
                       <div id="john-content" class="collapse" aria-labelledby="john" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            <span class="text-lblue">John Karczewski</span> is a game designer and software engineer who has shipped over a dozen titles in his nine-year career. He got his start developing award-winning gameplay for AAA titles like Saint's Row: The Third and Red Faction: Armageddon; today, he creates educational games in partnership with researchers and non-profit organizations, including innovative projects supported by the National Institutes for Health and the Gates Foundation. Whether he's developing games for change or working on his own indie titles, he loves creating polished experiences that captivate players.<br/>
-                          Site: www.johnkarczewski.com<br/>
-                          Twitter: @johnkarczewski
+                            <span class="text-lblue">John Karczewski</span> is a game designer and software engineer who has shipped over a dozen titles in his nine-year career. He got his start developing award-winning gameplay for AAA titles like Saint's Row: The Third and Red Faction: Armageddon; today, he creates educational games in partnership with researchers and non-profit organizations, including innovative projects supported by the National Institutes for Health and the Gates Foundation. Whether he's developing games for change or working on his own indie titles, he loves creating polished experiences that captivate players.
                         </p>
+
+                        <div class="hr mar10-top mar10-bot"></div>
+                        
+                        <h5 class="text-lblue">
+                          <a href="http://www.johnkarczewski.com/" target="_blank">johnkarczewski.com</a>
+                        </h5>
+                        <h5 class="text-lblue">
+                          <a href="https://twitter.com/johnkarczewski" target="_blank">@johnkarczewski</a>
+                        </h5>
                         </div>
                       </div><!-- END: Content -->
                     </div>
@@ -662,10 +683,17 @@
                       <div id="jake-content" class="collapse" aria-labelledby="jake" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            <span class="text-lblue">Jake Ruesch</span> is a UI/UX and web designer who holds a degree in graphic design and has worked in video game development for nearly a decade.  As a team member at the University of Wisconsin-Madison, Learning Games Network, The Wisconsin Institutes for Discovery, and Gear Learning, he has collaborated with programmers, modelers, and animators to create fun, and intuitive games for impact.  He loves a challenge, whether it's designing responsive, user-friendly, intuitive websites; developing game interfaces and graphics; or creating high-detail vector art and video games.<br/>
-                            Site: http://jsruesch.com/<br/>
-                            Twitter: @rykore
+                            <span class="text-lblue">Jake Ruesch</span> is a UI/UX and web designer who holds a degree in graphic design and has worked in video game development for nearly a decade.  As a team member at the University of Wisconsin-Madison, Learning Games Network, The Wisconsin Institutes for Discovery, and Gear Learning, he has collaborated with programmers, modelers, and animators to create fun, and intuitive games for impact.  He loves a challenge, whether it's designing responsive, user-friendly, intuitive websites; developing game interfaces and graphics; or creating high-detail vector art and video games.
                           </p>
+
+                          <div class="hr mar10-top mar10-bot"></div>
+                          
+                          <h5 class="text-lblue">
+                            <a href="http://jsruesch.com" target="_blank">jsruesch.com</a>
+                          </h5>
+                          <h5 class="text-lblue">
+                            <a href="https://twitter.com/Rykore" target="_blank">@Rykore</a>
+                          </h5>
                         </div>
                       </div><!-- END: Content -->
                     </div>

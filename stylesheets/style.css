@@ -733,6 +733,13 @@ ul {
   list-style: disc;
   padding-left: 20px; }
 
+.hr {
+  width: 100%;
+  float: left;
+  height: 0px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.025);
+  border-top: 2px solid rgba(0, 0, 0, 0.25); }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "alagardmedium" !important;
   text-shadow: 0px 5px 0px rgba(0, 0, 0, 0.75); }
@@ -796,6 +803,9 @@ li {
 .tabletmode {
   max-height: 400px;
   object-fit: scale-down; }
+
+.text-small {
+  font-size: 14px; }
 
 /* END: Utility Classes */
 /**
@@ -919,6 +929,11 @@ li {
   animation-name: odd;
   animation-duration: 5s;
   animation-iteration-count: infinite; }
+
+.pn-section {
+  background: rgba(0, 0, 0, 0.25);
+  border: 4px solid rgba(0, 0, 0, 0.25);
+  padding: 20px; }
 
 /* END: Elements */
 /**

@@ -351,26 +351,188 @@
             <div class="row">
               <h1 class="text-gold animate-text-odd">Publisher Needs</h1>
             </div>
-            <div class="row">
-              <table class="publisher-needs">
-                <tr>
-                  <td><h4 class="text-lblue text-center">Already Have</h4><p class="text-center">( funded by Studio Z )</p></td>
-                  <td><h4 class="text-lblue text-center">Initial Needs</h4></td>
-                  <td><h4 class="text-lblue text-center">Future Needs</h4></td>
-                </tr>
-                <!-- Asset Creation -->
-                <tr>
-                  <td>
+
+            <!-- Already Have -->
+            <div class="row pn-section">
+              <div class="row">
+                <div class="row"><h3 class="text-white">Already Have</h3></div>
+                <div class="row"><p class="text-white text-small">( funded by Studio Z )</p></div>  
+              </div>
+              <div class="hr mar10-top mar10-bot"></div>
+              <div class="row">
+                <ul class="disc">
+                  <li>
                     <h4 class="text-lblue">Asset Creation</h4>
-                    <p>
-                      Creation of existing art, music, UI, design, code and other assets
-                    </p>
-                  </td>
-                  <td></td>
-                  <td></td>
-                </tr>
-              </table>
+                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets.</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Development Kits</h4>
+                    <p class="text-white">Means for development on iOS and Android</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">QA</h4>
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">Ongoing internal team testing</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Extended network of potential testers</p>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Platform Access</h4>
+                    <p class="text-white">Access to iOS and Android</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Legal / Compliance</h4>  
+                    <p class="text-white">Trademark of <i class="text-lblue">Arcanist</i> ( currently pending approval )</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Branding and Marketing</h4>  
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">Web development</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Web hosting and domain management</p>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
             </div>
+            <!-- END: Already Have -->
+
+            <!-- Initial Needs -->
+            <div class="row mar20-top pn-section">
+              <div class="row">
+                <div class="row"><h3 class="text-white">Initial Needs</h3></div>
+              </div>
+              <div class="hr mar10-top mar10-bot"></div>
+              <div class="row">
+                <ul class="disc">
+                  <li>
+                    <h4 class="text-lblue">Development Kits</h4>
+                    <p class="text-white">Access to or funding for Nintendo Switch dev kit. <span class="text-bold text-lblue">$450</span></p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">QA</h4>
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">Expertise finding suitable external QA firm</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Funding for focused testing near the end of development for focused testing <span class="text-bold text-lblue">$10,000</span></p>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Platform Access</h4>
+                    <p class="text-white">Access to Nintendo Switch and Steam</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Content Rating</h4>
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">ESRB for Switch release <span class="text-bold text-lblue">Free</span></p>
+                      </li>
+                      <li>
+                        <p class="text-white">PEGI for Switch release <span class="text-bold text-lblue">$600</span></p>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Certification</h4>
+                    <p class="text-white">Assistance with certification process for Switch and any related fees <span class="text-bold text-lblue">TBD</span></p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Localization</h4>
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">Recommendation of trusted localization firms</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Funding for initial localization in French, Italian and Spanish <span class="text-bold text-lblue">$750</span></p>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Legal / Compliance</h4>
+                    <p class="text-white">Help ensuring compliance with all applicable laws and regulations, e.g. platform and app store terms and conditions</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Branding and Marketing</h4>
+                    <ul class="disc">
+                      <li>
+                        <p class="text-white">Expertise in branding and marketing</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Development of social media campaign (Twitter, Facebook)</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Access to influencers (YouTube, Twitch)</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Trade show presence (PAX, GDC)</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Press contacts <span class="text-bold text-lblue">TBD</span></p>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- END: Initial Needs -->
+
+            <!-- Future Needs -->
+            <div class="row mar20-top pn-section">
+              <div class="row">
+                <div class="row"><h3 class="text-white">Future Needs</h3></div> 
+              </div>
+              <div class="hr mar10-top mar10-bot"></div>
+              <div class="row">
+                <ul class="disc">
+                  <li>
+                    <h4 class="text-lblue">Development Kits</h4>
+                    <p class="text-white">Access to or funding for XBox and PlayStation dev kits <span class="text-bold text-lblue">$2700</span></p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Platform Access</h4>
+                    <p class="text-white">Access to Sony and Microsoft platforms</p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Content Rating</h4>
+                    <ul class="disc">
+                      <li>
+                      <p class="text-white">ESRB for XBox / PlayStation release <span class="text-bold text-lblue">Free</span></p>
+                      </li>
+                      <li>
+                        <p class="text-white">PEGI for XBox / PlayStation Release <span class="text-bold text-lblue">$1200</span></p>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Certification</h4>
+                    <p class="text-white">Assistance with certification process for XBox/PlayStation and any related fees <span class="text-bold text-lblue">TBD</span></p>
+                  </li>
+                  <li class="mar10-top">
+                    <h4 class="text-lblue">Localization</h4>
+                    <ul class="disc">
+                      <li>
+                      <p class="text-white">Localization strategy and support</p>
+                      </li>
+                      <li>
+                        <p class="text-white">Suggestions for additional languages to target potential audiences</p>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- END: Future Needs -->
+
           </div>
         <div class="rt"></div>
         <div class="bl"></div><div class="bt"></div><div class="br"></div>
@@ -386,6 +548,11 @@
           <div class="mt">
             <div class="row">
               <h1 class="text-gold animate-text-even">Developer Bios</h1>
+            </div>
+            <div class="row mar10-top mar20-bot">
+              <p class="text-white">
+              <span class="text-lblue">Studio Z</span> is a small team of artists and game developers with a combined 20+ years of experience in the AAA, educational, and indie spaces. When we're not playing hockey, writing musicals, rock climbing, or raising our fur babies, we aspire to create something unique and fun to give back to the gaming community we love.
+              </p>
             </div>
             <div class="row">
               <!-- Accordion -->
@@ -405,7 +572,7 @@
                       <div id="mattie-content" class="collapse" aria-labelledby="mattie" data-parent="#bios-accordion">
                         <div class="card-body">
                           <p>
-                            <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare’s A Midsummer Night’s Dream for high school students, currently in development by an independent games-for-impact studio.<br />
+                            <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare's A Midsummer Night's Dream for high school students, currently in development by an independent games-for-impact studio.<br />
                             Site: www.mattieburkert.com<br />
                             Twitter: @mattie_burkert
                           </p>

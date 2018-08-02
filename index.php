@@ -77,6 +77,7 @@
                             <h3 class="text-white">Single Player</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="single-player-content" class="collapse" aria-labelledby="single-player" data-parent="#gameplay-accordion">
@@ -132,6 +133,7 @@
                             <h3 class="text-white">Local Multiplayer</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="local-multiplayer-content" class="collapse" aria-labelledby="local-multiplayer" data-parent="#gameplay-accordion">
@@ -168,6 +170,7 @@
                             <h3 class="text-white">Switch Specific Functionality</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="switch-specific-functionality-content" class="collapse" aria-labelledby="switch-specific-functionality" data-parent="#gameplay-accordion">
@@ -396,6 +399,7 @@
                             <h3 class="text-white">Mattie Burkert</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="mattie-content" class="collapse" aria-labelledby="mattie" data-parent="#bios-accordion">
@@ -418,6 +422,7 @@
                             <h3 class="text-white">Quinn Elmer</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="quinn-content" class="collapse" aria-labelledby="quinnr" data-parent="#bios-accordion">
@@ -440,6 +445,7 @@
                             <h3 class="text-white">Chase Goostree</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="chase-content" class="collapse" aria-labelledby="chase" data-parent="#bios-accordion">
@@ -460,6 +466,7 @@
                             <h3 class="text-white">John Karczewski</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="john-content" class="collapse" aria-labelledby="john" data-parent="#bios-accordion">
@@ -482,6 +489,7 @@
                             <h3 class="text-white">Jake Ruesch</h3>
                           </button>
                         </h5>
+                        <div class="downarrow"></div>
                       </div><!-- END: Button -->
                       <!-- Content -->
                       <div id="jake-content" class="collapse" aria-labelledby="jake" data-parent="#bios-accordion">

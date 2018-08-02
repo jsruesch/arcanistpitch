@@ -793,6 +793,10 @@ li {
   height: auto;
   margin: 0 auto; }
 
+.tabletmode {
+  max-height: 400px;
+  object-fit: scale-down; }
+
 /* END: Utility Classes */
 /**
  * =========================================

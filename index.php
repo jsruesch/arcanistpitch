@@ -178,16 +178,19 @@
                                 <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for puzzle games beyond Tetris on the Nintendo Switch.
                               </p>
                             </li>
-                              <div class="col-sm-8 offset-sm-2 mar20-top">
-                                <img class="img-fw" src="img/joycon-mode-01.png"/>  
-                              </div>
+                            <div class="col-sm-8 offset-sm-2 mar20-top">
+                              <img class="img-fw" src="img/joycon-mode-01.png"/>  
+                            </div>
                             <li class="mar10-top">
                               <h3 class="text-lblue">Joycon Mode</h3>
                               <p>
                                 Let the Joycon be your instrument as you discover the mysteries of the Arcane, or join with up to 3 friends for cooperative or competitive action.
                               </p>
                             </li>
-                            <li class="mar20-top">
+                            <div class="col-sm-8 offset-sm-2 mar20-top">
+                              <img class="img-fw tabletmode" src="img/tablet-mode-01.png"/>  
+                            </div>
+                            <li class="mar10-top">
                               <h3 class="text-lblue">Touch Mode</h3>
                               <p>
                                 Players on the go can take full advantage of the Switch's touchscreen capabilities for a heart racing experience -- even in airplane mode.

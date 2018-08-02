@@ -123,6 +123,7 @@ li {
   */
 
 .ninebox{
+  max-width: 100%;
   width: 100%;
   display: grid;
   grid-template-columns: 35px auto 35px;
@@ -157,6 +158,7 @@ li {
 
 // Bootstrap overrides
 .card{
+  max-width: 100%;
   border: 3px solid rgba(0,0,0,.2) !important;
   margin-bottom: 5px;
   border-radius: 0px !important;
@@ -167,6 +169,7 @@ li {
 .card-body{ background: rgba(0,0,0,.5); }
 .btn{
   padding: 15px 15px 10px 15px !important;
+  white-space: none;
 }
 
 .btn-link{
@@ -180,6 +183,8 @@ li {
 }
 
 .publisher-needs{
+  float: left; 
+  max-width: 100%;
   width: 100%;
   background: rgba(0,0,0,.25) !important;
 

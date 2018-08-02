@@ -332,9 +332,9 @@
             <div class="row">
               <table class="publisher-needs">
                 <tr>
-                  <td><h3 class="text-lblue text-center">Already Have</h3><p class="text-center">( funded by Studio Z )</p></td>
-                  <td><h3 class="text-lblue text-center">Initial Needs</h3></td>
-                  <td><h3 class="text-lblue text-center">Future Needs</h3></td>
+                  <td><h4 class="text-lblue text-center">Already Have</h4><p class="text-center">( funded by Studio Z )</p></td>
+                  <td><h4 class="text-lblue text-center">Initial Needs</h4></td>
+                  <td><h4 class="text-lblue text-center">Future Needs</h4></td>
                 </tr>
                 <!-- Asset Creation -->
                 <tr>
@@ -385,7 +385,6 @@
                             <span class="text-lblue">Mattie Burkert</span> is a writer and producer who holds a PhD in English from the University of Wisconsin, where she was a Research Assistant for a data visualization project supported by a $1 million grant from the Mellon Foundation. She currently researches and teaches literature in a university setting and is the Project Director for an open-source web database of theater performances in London, funded by the National Endowment for the Humanities. In addition, she serves on the advisory board for a role-playing game about Shakespeare’s A Midsummer Night’s Dream for high school students, currently in development by an independent games-for-impact studio.<br />
                             Site: www.mattieburkert.com<br />
                             Twitter: @mattie_burkert
-
                           </p>
                         </div>
                       </div><!-- END: Content -->

@@ -23,7 +23,7 @@
               </p>
             </div>
             <div class="row mar20-top mar10-bot">
-              <img class="mx-auto" src="img/elements.png"/>  
+              <img class="animate-text-even mx-auto img-mw-full" src="img/elements.png"/>  
             </div>
           </div>
         <div class="rt"></div>
@@ -38,6 +38,11 @@
         <div class="tl"></div><div class="tt"></div><div class="tr"></div>
         <div class="lt"></div>
           <div class="mt">
+            <div class="row">
+              <div class="col-sm-8 offset-sm-2">
+                <img class="img-fw mar20-bot" src="img/gifs/multiplayer-01.gif"/>  
+              </div>
+            </div>
             <div class="row">
               <h1 class="text-gold animate-text-even">Genre</h1>
             </div>
@@ -173,7 +178,10 @@
                                 <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for puzzle games beyond Tetris on the Nintendo Switch.
                               </p>
                             </li>
-                            <li class="mar20-top">
+                              <div class="col-sm-8 offset-sm-2 mar20-top">
+                                <img class="img-fw" src="img/joycon-mode-01.png"/>  
+                              </div>
+                            <li class="mar10-top">
                               <h3 class="text-lblue">Joycon Mode</h3>
                               <p>
                                 Let the Joycon be your instrument as you discover the mysteries of the Arcane, or join with up to 3 friends for cooperative or competitive action.

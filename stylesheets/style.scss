@@ -102,6 +102,12 @@ li {
 
  .text-bold{ font-weight: bold; }
  .img-fw{ width: 100%; }
+ .img-gif{ 
+   object-fit: contain;
+   width: 100%; 
+   height: auto;
+   margin: 0 auto;
+  }
 
  /* END: Utility Classes */
 
@@ -169,7 +175,7 @@ li {
 .card-body{ background: rgba(0,0,0,.5); }
 .btn{
   padding: 15px 15px 10px 15px !important;
-  white-space: none;
+  white-space: normal !important;
 }
 
 .btn-link{

@@ -22,6 +22,9 @@
                 <i class="text-lblue">Arcanist</i> is a fast-paced action/puzzle adventure game. Brew mysterious potions, scour ancient tomes, and unleash powerful spells as you uncover the secrets held within the Arcanist's scriptorium. Gorgeous pixel art visuals and an addictive electronic-Baroque soundtrack accompany you on your quest to learn to manipulate the very elements of magic. Enter the tower and discover what it means to be a true Master of the Arcane.
               </p>
             </div>
+            <div class="row mar20-top mar10-bot">
+              <img class="mx-auto" src="img/elements.png"/>  
+            </div>
           </div>
         <div class="rt"></div>
         <div class="bl"></div><div class="bt"></div><div class="br"></div>
@@ -75,10 +78,15 @@
                         <div class="card-body">
                           <ul class="disc">
                             <li>
+                              <div class="row">
+                                <div class="col-sm-8 offset-sm-2">
+                                  <img class="img-fw mar20-bot" src="img/gifs/chapter-1-intro.gif"/>  
+                                </div>
+                              </div>
                               <h3 class="text-lblue">12-Chapter ( 120-Level ) Critical Path</h3>
                               <p>
                                 Walking through the woods one evening, you come across a mysterious tower. You are drawn inside, where you discover the scriptorium of the Arcanist--a library full of endless books detailing how to use magic. Hesitant at first, you begin to grow bolder. You lay your hands on one particularly dusty tome that seems to glow with an eerie light. It immediately unleashes a curse that traps you in the tower. In order to free yourself from the curse, you set forth on a quest to learn all you can about this place, its master, and the secrets it holds.
-                              </p>
+                              </p>                              
                             </li>
                             <li class="mar20-top">
                               <h3 class="text-lblue">Boss Battles</h3>

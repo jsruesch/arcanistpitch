@@ -141,7 +141,7 @@
                           <ul class="disc">
                             <div class="row">
                               <div class="col-sm-12 mar10-bot">
-                                <img class="img-fw" src="img/coop-mode.jpg"/>
+                                <img class="img-fw" src="img/coop-mode.JPG"/>
                               </div>
                             </div>
                             <li class="mar20-top">

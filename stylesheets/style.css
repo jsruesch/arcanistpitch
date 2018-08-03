@@ -834,7 +834,6 @@ li {
   .ninebox .lt {
     background: url(../img/9box/left-tile-01.png) repeat-y; }
   .ninebox .mt {
-    padding: 20px;
     background: url(../img/9box/mid-tile-01.png); }
   .ninebox .rt {
     background: url(../img/9box/right-tile-01.png) repeat-y; }

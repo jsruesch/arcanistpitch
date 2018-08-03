@@ -366,10 +366,6 @@
               <div class="hr mar10-top mar10-bot"></div>
               <div class="row">
                 <ul class="disc">
-                  <li>
-                    <h4 class="text-lblue">Asset Creation</h4>
-                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets.</p>
-                  </li>
                   <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>
                     <p class="text-white">Means for development on iOS and Android</p>
@@ -418,6 +414,10 @@
               <div class="row">
                 <ul class="disc">
                   <li>
+                    <h4 class="text-lblue">Asset Creation</h4>
+                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets <span class="text-bold text-lblue">$3,000</span></p>
+                  </li>
+                  <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>
                     <p class="text-white">Access to or funding for Nintendo Switch dev kit. <span class="text-bold text-lblue">$450</span></p>
                   </li>

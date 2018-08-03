@@ -7,7 +7,7 @@
   <link rel="stylesheet" type="text/css" href="stylesheets/style.min.css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Favicon -->
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <!-- jQuery -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <!-- Bootstrap -->

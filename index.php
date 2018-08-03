@@ -334,7 +334,7 @@
                     <li><p>Sushi Striker: The Way of Sushido - $49.99 (single- and multi-player modes)</p></li>
                     <li><p>Battle Chef Brigade - $19.99 (single-player only)</p></li>
                     <li><p>Tricky Towers - $15.99 (online and local multi-player focused)</p></li>
-                    <li><p>Tumblestone - $14.99 (multi-player only)</p></li>
+                    <li><p>Tumblestone - $14.99 (multi-player focused)</p></li>
                     <li><p>Letter Quest: Remastered - $11.99 (single-player only)</p></li>
                   </ul>
                 </li>
@@ -366,6 +366,10 @@
               <div class="hr mar10-top mar10-bot"></div>
               <div class="row">
                 <ul class="disc">
+                  <li>
+                    <h4 class="text-lblue">Asset Creation</h4>
+                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets</p>
+                  </li>
                   <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>
                     <p class="text-white">Means for development on iOS and Android</p>
@@ -415,7 +419,7 @@
                 <ul class="disc">
                   <li>
                     <h4 class="text-lblue">Asset Creation</h4>
-                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets <span class="text-bold text-lblue">$3,000</span></p>
+                    <p class="text-white">Additional art asset development exceeding current budget at negotiated rate of $10/hr for 300 hours. <span class="text-bold text-lblue">$3,000</span></p>
                   </li>
                   <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>

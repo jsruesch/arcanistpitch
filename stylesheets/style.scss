@@ -29,7 +29,7 @@
    min-height: 100%;
    position: relative;
    width: 100%;
-   background: url(../img/tempbg.png) 50% 0% #160909 no-repeat;
+   background: url(../img/tempbg-blue.png) 50% 0% #060309 no-repeat;
  }
 
  body{  }
@@ -144,22 +144,22 @@ li {
   grid-template-rows: 35px auto 35px;
 
   // Top Row
-  .tl{ background: url(../img/9box-02/9b-topleft-01.png); }
-  .tt{ background: url(../img/9box-02/top-tile-01.png) repeat-x; }
-  .tr{ background: url(../img/9box-02/9b-topright-01.png); }
+  .tl{ background: url(../img/9box/9b-topleft-01.png); }
+  .tt{ background: url(../img/9box/top-tile-01.png) repeat-x; }
+  .tr{ background: url(../img/9box/9b-topright-01.png); }
 
   // Middle Row
-  .lt{ background: url(../img/9box-02/left-tile-01.png) repeat-y; }
+  .lt{ background: url(../img/9box/left-tile-01.png) repeat-y; }
   .mt{
     padding: 20px;
-     background: url(../img/9box-02/mid-tile-01.png);
+     background: url(../img/9box/mid-tile-01.png);
    }
-  .rt{ background: url(../img/9box-02/right-tile-01.png) repeat-y; }
+  .rt{ background: url(../img/9box/right-tile-01.png) repeat-y; }
 
   // Bottom Row
-  .bl{ background: url(../img/9box-02/9b-bottomleft-01.png); }
-  .bt{ background: url(../img/9box-02/bottom-tile-01.png) repeat-x; }
-  .br{ background: url(../img/9box-02/9b-bottomright-01.png); }
+  .bl{ background: url(../img/9box/9b-bottomleft-01.png); }
+  .bt{ background: url(../img/9box/bottom-tile-01.png) repeat-x; }
+  .br{ background: url(../img/9box/9b-bottomright-01.png); }
 }
 
 .card,

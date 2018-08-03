@@ -717,7 +717,7 @@ html {
   min-height: 100%;
   position: relative;
   width: 100%;
-  background: url(../img/tempbg.png) 50% 0% #160909 no-repeat; }
+  background: url(../img/tempbg-blue.png) 50% 0% #060309 no-repeat; }
 
 p {
   font-size: 18px;
@@ -826,24 +826,24 @@ li {
   grid-template-columns: 35px auto 35px;
   grid-template-rows: 35px auto 35px; }
   .ninebox .tl {
-    background: url(../img/9box-02/9b-topleft-01.png); }
+    background: url(../img/9box/9b-topleft-01.png); }
   .ninebox .tt {
-    background: url(../img/9box-02/top-tile-01.png) repeat-x; }
+    background: url(../img/9box/top-tile-01.png) repeat-x; }
   .ninebox .tr {
-    background: url(../img/9box-02/9b-topright-01.png); }
+    background: url(../img/9box/9b-topright-01.png); }
   .ninebox .lt {
-    background: url(../img/9box-02/left-tile-01.png) repeat-y; }
+    background: url(../img/9box/left-tile-01.png) repeat-y; }
   .ninebox .mt {
     padding: 20px;
-    background: url(../img/9box-02/mid-tile-01.png); }
+    background: url(../img/9box/mid-tile-01.png); }
   .ninebox .rt {
-    background: url(../img/9box-02/right-tile-01.png) repeat-y; }
+    background: url(../img/9box/right-tile-01.png) repeat-y; }
   .ninebox .bl {
-    background: url(../img/9box-02/9b-bottomleft-01.png); }
+    background: url(../img/9box/9b-bottomleft-01.png); }
   .ninebox .bt {
-    background: url(../img/9box-02/bottom-tile-01.png) repeat-x; }
+    background: url(../img/9box/bottom-tile-01.png) repeat-x; }
   .ninebox .br {
-    background: url(../img/9box-02/9b-bottomright-01.png); }
+    background: url(../img/9box/9b-bottomright-01.png); }
 
 .card,
 .accordion {

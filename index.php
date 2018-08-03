@@ -719,6 +719,15 @@
   <img class="footer-logo center-block" src="img/studioz-logo-01.svg"/>
 </div>
 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+ <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123360570-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123360570-1');
+</script>
 
 </body>
 </html>

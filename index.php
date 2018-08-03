@@ -301,7 +301,7 @@
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Publicity</h3>
-                  <p>beginning June 2019 with potential announcement at or around E3</p>
+                  <p>beginning June-August 2019 with potential announcement at or around E3</p>
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Initial launch</h3>

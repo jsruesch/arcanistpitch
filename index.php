@@ -183,7 +183,7 @@
                           <ul class="disc">
                             <li class="mar20-top">
                               <p>
-                                <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for puzzle games beyond Tetris on the Nintendo Switch.
+                                <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for immersive puzzle games beyond Tetris in the Nintendo Switch e-shop. At present, only two prominent puzzle-based experiences with multiplayer components are available on the Switch platform (Puyo Puyo Tetris and Sushi Strikers). Arcanist combines a compelling single-player story experience with multiple local multiplayer modes to provide significantly more value to the consumer than similar puzzle games.
                               </p>
                             </li>
                             <div class="col-sm-8 offset-sm-2 mar20-top">
@@ -258,28 +258,6 @@
     </div>
     <!-- END: Media -->
 
-    <!-- Development -->
-    <div class="row mar20-top">
-      <div class="ninebox">
-        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
-        <div class="lt"></div>
-          <div class="mt">
-            <div class="row">
-              <h1 class="text-gold animate-text-odd">Development</h1>
-            </div>
-            <div class="row">
-              <ul class="disc">
-                <li><p>Built in Unity</p></li>
-                <li><p>Utilizes FMOD audio library</p></li>
-              </ul>
-            </div>
-          </div>
-        <div class="rt"></div>
-        <div class="bl"></div><div class="bt"></div><div class="br"></div>
-      </div>
-    </div>
-    <!-- END: Development -->
-
     <!-- Release Roadmap -->
     <div class="row mar20-top">
       <div class="ninebox">
@@ -287,13 +265,13 @@
         <div class="lt"></div>
           <div class="mt">
             <div class="row">
-              <h1 class="text-gold animate-text-even">Release Roadmap</h1>
+              <h1 class="text-gold animate-text-even">Roadmap</h1>
             </div>
             <div class="row">
               <ul class="disc">
                 <li class="mar20-top">
                   <h3 class="text-lblue">Production</h3>
-                  <p>present through May 2019</p>
+                  <p>Present through May 2019</p>
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Polish and QA</h3>
@@ -301,18 +279,11 @@
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Publicity</h3>
-                  <p>beginning June 2019 with potential announcement at or around E3</p>
+                  <p>Beginning June 2019 with potential announcement at or around E3</p>
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Initial launch</h3>
                   <p>August 2019 on Switch, PC, and Mac</p>
-                  <ul class="disc">
-                    <li>
-                      <p>
-                        <i class="text-lblue">Arcanist</i> is suitable for cross-platform publication and is uniquely positioned to fill a need for immersive puzzle games beyond Tetris in the Nintendo Switch e-shop. At present, only two prominent puzzle-based experiences with multiplayer components are available on the Switch platform (Puyo Puyo Tetris and Sushi Strikers). Arcanist combines a compelling single-player story experience with multiple local multiplayer modes to provide significantly more value to the consumer than similar puzzle games.
-                      </p>
-                    </li>
-                  </ul>
                 </li>
                 <li class="mar20-top">
                   <h3 class="text-lblue">Release on Xbox and PlayStation</h3>
@@ -368,7 +339,15 @@
                 <ul class="disc">
                   <li>
                     <h4 class="text-lblue">Asset Creation</h4>
-                    <p class="text-white">Creation of existing art, music, UI, design, code and other assets</p>
+                    <li>
+						<p class="text-white">Creation of existing art, music, UI, design, code and other assets</p>
+					</li>
+					<li>
+						<p class="text-white">Built in Unity</p>
+					</li>
+					<li>
+						<p class="text-white">Utilizes FMOD audio library</p>
+					</li>
                   </li>
                   <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>

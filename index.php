@@ -19,7 +19,7 @@
             </div>
             <div class="row">
               <p>
-                <i class="text-lblue">Arcanist</i> is a fast-paced action/puzzle adventure game. Brew mysterious potions, scour ancient tomes, and unleash powerful spells as you uncover the secrets held within the Arcanist's scriptorium. Gorgeous pixel art visuals and an addictive electronic-Baroque soundtrack accompany you on your quest to learn to manipulate the very elements of magic. Enter the tower and discover what it means to be a true Master of the Arcane.
+                <i class="text-lblue">Arcanist</i> is a fast-paced puzzle action-adventure game. Brew mysterious potions, scour ancient tomes, and unleash powerful spells as you uncover the secrets held within the Arcanist's scriptorium. Gorgeous pixel art visuals and an addictive electronic-Baroque soundtrack accompany you on your quest to manipulate the very elements of magic. Enter the tower and discover what it means to be a true Master of the Arcane.
               </p>
             </div>
             <div class="row mar20-top mar10-bot">
@@ -77,13 +77,13 @@
                               </p>
                             </li>
                             <li class="mar20-top">
-                              <h3 class="text-lblue">Endless mode</h3>
+                              <h3 class="text-lblue">Endless Mode</h3>
                               <p>
                                 Prove your mastery of the Arcane. Control an onslaught of elemental forces as they become increasingly unstable.
                               </p>
                             </li>
                             <li class="mar20-top">
-                              <h3 class="text-lblue">Alchemy bench</h3>
+                              <h3 class="text-lblue">Alchemy Bench</h3>
                               <p>
                                 Learn to infuse the material world with magical properties. Discover increasingly complex recipes and craft ever more powerful potions to carry with you on your quest.
                               </p>

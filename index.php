@@ -115,23 +115,23 @@
                       <div id="local-multiplayer-content" class="collapse" aria-labelledby="local-multiplayer" data-parent="#gameplay-accordion">
                         <div class="card-body">
                           <ul class="disc">
-                            <div class="row">
-                              <div class="col-sm-12 mar10-bot">
-                                <img class="img-fw" src="img/coop-mode.JPG"/>
-                              </div>
-                            </div>
                             <li class="mar20-top">
                               <h3 class="text-lblue">2 Player Cooperative</h3>
                               <p>
                                 Work together to simultaneously solve puzzles across twenty unique levels not found in the main story. Cast powerful spells and tackle tricky challenges one player couldn't handle alone.
                               </p>
                             </li>
+							<div class="row">
+                              <div class="col-sm-12 mar10-bot">
+                                <img class="img-fw" src="img/coop-mode.JPG"/>
+                              </div>
+                            </div>
                             <li class="mar20-top">
                               <h3 class="text-lblue">2 Player Competitive</h3>
                               <p>
                                 Players race to complete the same set of puzzles, using spells defensively to solve the puzzles or offensively to thwart the opponent.
                               </p>
-							  <img class="img-fw mar20-bot" src="img/gifs/multiplayer-01.gif"/> 
+							  <img class="img-fw mar20-bot" src="img/gifs/multiplayer-02.gif"/> 
                             </li>
                             <li class="mar20-top">
                                 <h3 class="text-lblue mar10-bot">1-4 Player Versus</h3>

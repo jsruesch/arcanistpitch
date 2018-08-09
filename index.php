@@ -32,30 +32,6 @@
     </div>
     <!-- END: Summary -->
 
-    <!-- Genre -->
-    <div class="row mar20-top">
-      <div class="ninebox">
-        <div class="tl"></div><div class="tt"></div><div class="tr"></div>
-        <div class="lt"></div>
-          <div class="mt">
-            <div class="row">
-              <div class="col-sm-8 offset-sm-2">
-                <img class="img-fw mar20-bot" src="img/gifs/multiplayer-01.gif"/>  
-              </div>
-            </div>
-            <div class="row">
-              <h1 class="text-gold animate-text-even">Genre</h1>
-            </div>
-            <div class="row">
-                <p>Action, Adventure, Puzzle</p>
-            </div>
-          </div>
-        <div class="rt"></div>
-        <div class="bl"></div><div class="bt"></div><div class="br"></div>
-      </div>
-    </div>
-    <!-- END: Genre -->
-
     <!-- Details -->
     <div class="row mar20-top">
       <div class="ninebox">
@@ -89,7 +65,7 @@
                                   <img class="img-fw mar20-bot" src="img/gifs/chapter-1-intro.gif"/>  
                                 </div>
                               </div>
-                              <h3 class="text-lblue">12-Chapter ( 120-Level ) Critical Path</h3>
+                              <h3 class="text-lblue">12-Chapter ( 120-Level ) Campaign</h3>
                               <p>
                                 Walking through the woods one evening, you come across a mysterious tower. You are drawn inside, where you discover the scriptorium of the Arcanist--a library full of endless books detailing how to use magic. Hesitant at first, you begin to grow bolder. You lay your hands on one particularly dusty tome that seems to glow with an eerie light. It immediately unleashes a curse that traps you in the tower. In order to free yourself from the curse, you set forth on a quest to learn all you can about this place, its master, and the secrets it holds.
                               </p>                              
@@ -155,6 +131,7 @@
                               <p>
                                 Players race to complete the same set of puzzles, using spells defensively to solve the puzzles or offensively to thwart the opponent.
                               </p>
+							  <img class="img-fw mar20-bot" src="img/gifs/multiplayer-01.gif"/> 
                             </li>
                             <li class="mar20-top">
                                 <h3 class="text-lblue mar10-bot">1-4 Player Versus</h3>
@@ -339,15 +316,17 @@
                 <ul class="disc">
                   <li>
                     <h4 class="text-lblue">Asset Creation</h4>
-                    <li>
-						<p class="text-white">Creation of existing art, music, UI, design, code and other assets</p>
-					</li>
-					<li>
-						<p class="text-white">Built in Unity</p>
-					</li>
-					<li>
-						<p class="text-white">Utilizes FMOD audio library</p>
-					</li>
+					<ul class="disc">
+						<li>
+							<p class="text-white">Creation of existing art, music, UI, design, code and other assets</p>
+						</li>
+						<li>
+							<p class="text-white">Built in Unity</p>
+						</li>
+						<li>
+							<p class="text-white">Utilizes FMOD audio library</p>
+						</li>
+					</ul>
                   </li>
                   <li class="mar10-top">
                     <h4 class="text-lblue">Development Kits</h4>
